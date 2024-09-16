@@ -1,0 +1,13 @@
+TODO
+
+
+
+display list of files on a page/ reder data in browser from express in format of html
+
+delete one file from the folder not neded
+delete all files from the folder
+delete all files saved before specific date
+
+
+delete file
+https://www.bezkoder.com/node-js-delete-file/
